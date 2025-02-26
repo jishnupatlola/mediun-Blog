@@ -8,8 +8,8 @@
   // ]
   "vars": {
      "MY_VAR": "my-variable",
-     "DATABASE_URL":"prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMDY3NTg2YjUtMTUwNS00YzIxLWJmZjYtZjA3ZWYyMzRlYzMxIiwidGVuYW50X2lkIjoiYzZkMTRiOTEwY2FjYjdmNGUwMmVkYjRkZjE0MjMzMjFiZmEyNmI5YTc5ZDgxZTJiNzYwMmI0ZTc1NzQyNjhkYiIsImludGVybmFsX3NlY3JldCI6ImJmZGM2MTRmLWVlOTAtNGQ0Ni04MWY4LTNiYWJhYzc0YTY5YSJ9.KVyZju7S1Vlsv7ac5v2PPzBFg65VzxuIGJXmAXtJATI",
-     "JWT_SECRET":"jishnusecretkey"
+     "DATABASE_URL":"",
+     "JWT_SECRET":""
   }
   // "kv_namespaces": [
   //   {
